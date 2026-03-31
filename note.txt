@@ -1,0 +1,20 @@
+       .poppins-font{
+            font-family: "Poppins", sans-serif;
+
+        }
+        .volkob-font{
+            font-family: "Volkhov", serif;
+
+        }
+        .google-sans{
+             font-family: "Google Sans", sans-serif;
+        }
+        .open-sans{
+             font-family: "Open Sans", sans-serif;
+        }
+
+
+
+
+
+        <i class="fa-solid fa-angle-down"></i>
